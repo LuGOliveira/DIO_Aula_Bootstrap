@@ -1,2 +1,2 @@
 # DIO: Aula_bootstrap
-Como utilizr o bootstrap para criação de um site.
+Como utilizar o bootstrap para criação de um site.
